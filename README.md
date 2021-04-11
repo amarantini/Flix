@@ -38,8 +38,8 @@ Describe any challenges encountered while building the app.
 - [x] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-<img src="https://imgur.com/a/1y3VN5F" width=250><br>
-<img src="https://imgur.com/8Ici9YS" width=250><br>
+<img src="./ipad_flix.gif" width=250><br>
+<img src="./iphone_flix.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
