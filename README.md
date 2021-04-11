@@ -21,7 +21,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### Notes
 Describe any challenges encountered while building the app.
-
+The collection view layout does not work when I was testing on iPhone12. I can only change to iPhone11 and it works.
 ---
 
 ## Flix Part 1
